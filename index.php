@@ -1,9 +1,6 @@
 <?php
 $today = date("d/m/Y H:i:s");
 $title = 'chocolate('.$today.')';
-
-
-
 ?>
 <!doctype html>
 <html lang="en">
